@@ -1,0 +1,14 @@
+# List of files and directories to be ignored when versioning
+*.log
+/vendor/
+/node_modules/
+
+# .htaccess
+/public_html/.htaccess
+
+# IDE-specific
+/.idea/
+/nbproject/
+
+# MacOS
+*.DS_Store
